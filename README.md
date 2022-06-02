@@ -1,4 +1,4 @@
-### Hello there, Joakim Lee
+### Hello there, I'm Joakim Lee
 
 <!--
 **joakimlees/joakimlees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
