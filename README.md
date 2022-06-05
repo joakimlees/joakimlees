@@ -11,7 +11,7 @@
 #### As a developer
 
 - 🔭 I’m currently working on different school projects
-- 🌱 I’m currently learning more and more about javascript, html, css and design(UX, IxD)
+- 🌱 I’m currently learning more and more about web development in general
 - 💬 Ask me about Anything
 - 📫 How to reach me: [My Linkedin Profile](https://www.linkedin.com/in/joakim-lee-sletten-14381621a/)
 - ⚡ Fun fact: I was **Norway's Strongest Man in 2016 🏆**
