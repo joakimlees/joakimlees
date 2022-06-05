@@ -1,6 +1,6 @@
 # Hello there, I'm Joakim Lee
 
-> I'm a believer in hard work - not in "talent"
+> I'm a believer in hard work - not "talent"
 
 ## Front-End Developer
 
