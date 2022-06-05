@@ -2,7 +2,7 @@
 
 # Front-end developer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joakimlees)](https://github.com/joakimlees/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joakimlees&layout=compact)](https://github.com/joakimlees/github-readme-stats)
 
 <!--
 **joakimlees/joakimlees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
