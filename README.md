@@ -2,6 +2,9 @@
 
 # Front-End Developer
 
+I'm currently studying Front-End Development at [Noroff - School of Technology and Digital Media](https://www.noroff.no/).
+In addition to my studies, I work part time as a Digital Specialist, with Conversion Rate Optimization(CRO) at [Fullstakk](https://fullstakk.com). Where I among other things develope and deploy A/B-tests in Google Optimize.
+
 - 🔭 I’m currently working on different school projects
 - 🌱 I’m currently learning more and more about javascript, html, css and design(UX, IxD)
 - 💬 Ask me about Anything
@@ -9,10 +12,6 @@
 - ⚡ Fun fact:
 
 1. I was Norways Strongest Man in 2016
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joakimlees&layout=compact" />
-
-<a src="vg.no"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=joakimlees)](https://github.com/joakimlees/github-readme-stats)
 
