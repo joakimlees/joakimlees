@@ -2,16 +2,17 @@
 
 # Front-End Developer
 
-I'm currently studying Front-End Development at [Noroff - School of Technology and Digital Media](https://www.noroff.no/).
-In addition to my studies, I work part time as a Digital Specialist, with Conversion Rate Optimization(CRO) at [Fullstakk](https://fullstakk.com). Where I among other things develope and deploy A/B-tests in Google Optimize.
+- I'm currently studying Front-End Development at [Noroff - School of Technology and Digital Media](https://www.noroff.no/).
+
+* In addition to my studies, I work part time as a Digital Specialist, with Conversion Rate Optimization(CRO) at [Fullstakk](https://fullstakk.com). Where I among other things develope and deploy A/B-tests in Google Optimize.
+
+### My GitHub
 
 - 🔭 I’m currently working on different school projects
 - 🌱 I’m currently learning more and more about javascript, html, css and design(UX, IxD)
 - 💬 Ask me about Anything
-- 📫 How to reach me: [My Linkdin profile]()
+- 📫 How to reach me: [My Linkedin Profile](https://www.linkedin.com/in/joakim-lee-sletten-14381621a/)
 - ⚡ Fun fact:
-
-1. I was Norways Strongest Man in 2016
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=joakimlees)](https://github.com/joakimlees/github-readme-stats)
 
