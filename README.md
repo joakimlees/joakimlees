@@ -32,10 +32,10 @@
 
 ## More About Me
 
-**Nationality:** Norwegian
-**Location:** Oslo, Norway
-**Age:** 32yo
-**Gender:** Male
+- **Nationality:** Norwegian
+- **Location:** Oslo, Norway
+- **Age:** 32yo
+- **Gender:** Male
 
 #### Previous Career
 
