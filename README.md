@@ -2,6 +2,8 @@
 
 # Front-end developer
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=joakimlees)](https://github.com/joakimlees/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joakimlees&layout=compact)](https://github.com/joakimlees/github-readme-stats)
 
 <!--
