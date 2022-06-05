@@ -10,6 +10,8 @@
 
 1. I was Norways Strongest Man in 2016
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joakimlees&layout=compact" />
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=joakimlees)](https://github.com/joakimlees/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joakimlees&layout=compact)](https://github.com/joakimlees/github-readme-stats)
