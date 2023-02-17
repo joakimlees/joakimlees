@@ -6,7 +6,7 @@
 
 - I'm currently studying Front-End Development at [Noroff - School of Technology and Digital Media](https://www.noroff.no/)
 
-- In addition to my studies, I work part time as a Digital Specialist, with Conversion Rate Optimization(CRO) at [Fullstakk](https://www.fullstakk.no/). Where I among other things develope and deploy A/B-tests in Google Optimize
+- In addition to my studies, I work part time as a Digital Specialist, with Conversion Rate Optimization(CRO) at [Fullstakk](https://www.fullstakk.no/). Where I among other things develope and deploy A/B-tests in Google Optimize, configure website tracking with Google Analytics 4 and Google Tag Manager.
 
 #### As a developer
 
