@@ -43,6 +43,7 @@ I'm familiar and got some experience with the following tools:
 ### My preferred/most enjoyable tools
 * React 
 * Vanilla javascript
+* Sass/scss
 * styled-components
 * Tailwindcss
 * Bootstrap
