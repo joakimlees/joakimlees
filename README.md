@@ -8,22 +8,52 @@
 
 - As of january 2022 I have been working as a Digital Specialist, with Conversion Rate Optimization(CRO) & data at [Fullstakk](https://www.fullstakk.no/). Where I among other things develope and deploy A/B-tests in Google Optimize, configure website tracking with Google Analytics 4, Google Tag Manager or with Matomo, help maintain and develop the company's home page, which is made in webflow.
 
-## Developer
+## Developer tools
 
 I'm familiar and got some experience with the following tools:
 
-Front-end
+### Frontend
 * HTML - CSS - Javascript
 * React
+* Sass/scss
 * Styled-components
-* 
+* Bootstrap
+* Tailwind
+* Postman
+* Wordpress
+* Webflow
+* Node.js
+* Npm
 
+### Backend
+* Express.js
+* Prisma
+
+### Testing
+* Cypress (e2e)
+* Jest (Unit-testing)
+
+### Other
+* Google Analytics 4
+* Google Tag Manager
+* Matomo Analytics
+* Google Optimize
+* Hotjar
+
+### My preferred/most enjoyable tools
+* React 
+* Vanilla javascript
+* styled-components
+* Tailwindcss
+* Bootstrap
+* Google tag manager
+* google analytics 4
 
 #### As a developer
 
-- 🔭 I’m currently working on different school projects
-- 🌱 I’m currently learning more and more about web development in general
-- 💬 Ask me about Anything
+- 🔭 I’m currently working on my portfolio website.
+- 🌱 I’m currently looking to further develop my knowlegde and skills as a developer. Maybe learn a new framework or language.
+- 💬 Ask me about Anything.
 - 📫 How to reach me: [My Linkedin Profile](https://www.linkedin.com/in/joakim-lee-sletten-14381621a/)
 - ⚡ Fun fact: I was **Norway's Strongest Man in 2016 🏆**
 
