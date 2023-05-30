@@ -8,11 +8,16 @@
 
 - As of january 2022 I have been working as a Digital Specialist, with Conversion Rate Optimization(CRO) & data at [Fullstakk](https://www.fullstakk.no/). Where I among other things develope and deploy A/B-tests in Google Optimize, configure website tracking with Google Analytics 4, Google Tag Manager or with Matomo, help maintain and develop the company's home page, which is made in webflow.
 
-## Education
+## Developer
 
-- 2023: Front-End Development - [Noroff - School of Technology and Digital Media](https://www.noroff.no/)
-- 2023: Conversion optimization, minidegree – [CXL, online]([https://www.noroff.no/](https://certificates.cxl.com/8e3fdd12-d862-439c-8c4f-94742cc156ef#gs.z198wh)
-- 2017: MS Sports Science - NTNU Tronheim, Norway [Link to my thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2784461)
+I'm familiar and got some experience with the following tools:
+
+Front-end
+* HTML - CSS - Javascript
+* React
+* Styled-components
+* 
+
 
 #### As a developer
 
@@ -32,11 +37,42 @@
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
+<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+
+<img align="left" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+
+<img align="left" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
+
+<img align="left" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+
+<img align="left" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+
+<img align="left" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+
+<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<img align="left" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<img align="left" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
+
+<img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+
+<img align="left" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+<img align="left" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
+
 <img align="left" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
 
 [Check out My Portfolio Website](https://stellar-platypus-59ad66.netlify.app)
+
+
+## Education
+
+- 2023: Front-End Development - [Noroff - School of Technology and Digital Media](https://www.noroff.no/)
+- 2023: Conversion optimization, minidegree – [CXL, online]([https://www.noroff.no/](https://certificates.cxl.com/8e3fdd12-d862-439c-8c4f-94742cc156ef#gs.z198wh)
+- 2017: MS Sports Science - NTNU Tronheim, Norway [Link to my thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2784461)
 
 ## More About Me
 
