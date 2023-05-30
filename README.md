@@ -2,11 +2,17 @@
 
 > I'm a believer in hard work - not "talent"
 
-## Front-End Developer
+## About me
 
-- I'm currently studying Front-End Development at [Noroff - School of Technology and Digital Media](https://www.noroff.no/)
+- Finished studying Front-End Development at [Noroff - School of Technology and Digital Media](https://www.noroff.no/) in June, 2023.
 
-- In addition to my studies, I work part time as a Digital Specialist, with Conversion Rate Optimization(CRO) at [Fullstakk](https://www.fullstakk.no/). Where I among other things develope and deploy A/B-tests in Google Optimize, configure website tracking with Google Analytics 4 and Google Tag Manager.
+- As of january 2022 I have been working as a Digital Specialist, with Conversion Rate Optimization(CRO) & data at [Fullstakk](https://www.fullstakk.no/). Where I among other things develope and deploy A/B-tests in Google Optimize, configure website tracking with Google Analytics 4, Google Tag Manager or with Matomo, help maintain and develop the company's home page, which is made in webflow.
+
+## Education
+
+- 2023: Front-End Development - [Noroff - School of Technology and Digital Media](https://www.noroff.no/)
+- 2023: Conversion optimization, minidegree – [CXL, online]([https://www.noroff.no/](https://certificates.cxl.com/8e3fdd12-d862-439c-8c4f-94742cc156ef#gs.z198wh)
+- 2017: MS Sports Science - NTNU Tronheim, Norway [Link to my thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2784461)
 
 #### As a developer
 
@@ -26,6 +32,8 @@
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
+<img align="left" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
 
 [Check out My Portfolio Website](https://stellar-platypus-59ad66.netlify.app)
@@ -36,10 +44,6 @@
 - **Location:** Oslo, Norway
 - **Age:** 32yo
 - **Gender:** Male
-
-#### Previous Career
-
-- Master's Degree in Sports Science [Link to my thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2784461)
 
 #### Hobbies
 
