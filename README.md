@@ -46,8 +46,6 @@ I'm familiar and got some experience with the following tools:
 * styled-components
 * Tailwindcss
 * Bootstrap
-* Google tag manager
-* google analytics 4
 
 #### As a developer
 
