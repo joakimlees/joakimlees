@@ -84,7 +84,7 @@ I'm familiar and got some experience with the following tools:
 ## Education
 
 - 2023: Front-End Development - [Noroff - School of Technology and Digital Media](https://www.noroff.no/)
-- 2023: Conversion optimization, minidegree – [CXL, online]([https://www.noroff.no/](https://certificates.cxl.com/8e3fdd12-d862-439c-8c4f-94742cc156ef#gs.z198wh)
+- 2023: Conversion optimization, minidegree – [CXL, online](https://www.noroff.no/](https://certificates.cxl.com/8e3fdd12-d862-439c-8c4f-94742cc156ef#gs.z198wh)
 - 2017: MS Sports Science - NTNU Tronheim, Norway [Link to my thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2784461)
 
 ## More About Me
