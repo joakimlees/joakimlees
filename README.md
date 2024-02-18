@@ -1,6 +1,4 @@
-# Hello there, I'm Joakim Lee
-
-> I'm a believer in hard work - not "talent"
+#Joakim Lee
 
 ## About me
 
