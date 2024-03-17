@@ -89,7 +89,7 @@ I'm familiar and got some experience with the following tools:
 
 - **Nationality:** Norwegian
 - **Location:** Oslo, Norway
-- **Age:** 32yo
+- **Age:** 33yo
 - **Gender:** Male
 
 #### Hobbies
